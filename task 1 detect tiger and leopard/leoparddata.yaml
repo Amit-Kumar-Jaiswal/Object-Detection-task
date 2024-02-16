@@ -1,0 +1,10 @@
+path : '...'
+
+train : '/home/amit/Downloads/create zip/Leopard/train'
+valid : '/home/amit/Downloads/create zip/Leopard/valid'
+test : '/home/amit/Downloads/create zip/Leopard/test'
+
+nc : 1
+
+names : ['leopard']
+

@@ -1,0 +1,11 @@
+python
+pandas
+numpy
+shuttil
+os
+yolo
+sklearn
+torch
+torchvision
+PIL
+opencv

@@ -1,0 +1,10 @@
+path : '...'
+
+train : '/home/amit/Downloads/create zip/Tigers/train'
+valid : '/home/amit/Downloads/create zip/Tigers/valid'
+test : '/home/amit/Downloads/create zip/Tigers/test'
+
+nc : 1
+
+names : ['tiger']
+
